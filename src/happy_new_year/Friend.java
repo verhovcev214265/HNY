@@ -14,6 +14,8 @@ public class Friend {
                 firstName = YELLOW_PRINT + "Valentin";
             }else if (input == 2){
                 firstName = YELLOW_PRINT + "Elijah";
+            }else if (input == 3){
+                firstName = YELLOW_PRINT + "Nadin";
             }else {
                 System.out.println(YELLOW_PRINT + "I don`t know who are you, but I wish you a Happy New Year too!");
             }

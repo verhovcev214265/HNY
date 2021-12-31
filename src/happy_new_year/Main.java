@@ -8,7 +8,7 @@ public class Main {
         boolean exit = false;
 
         while (!exit){
-            System.out.println(BLUE_PRINT + "If you Valentin enter 1, if you Elijah enter 2. \n" +
+            System.out.println(BLUE_PRINT + "If you Valentin enter 1, if you Elijah enter 2, if you Nadin enter 3. \n" +
                                             "If you want to go out enter 0.");
             Scanner scan = new Scanner(System.in);
             int input = scan.nextInt();
